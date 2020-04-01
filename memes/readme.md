@@ -1,1 +1,1 @@
-### Folder containing the randomly selected imageg for upload.
+### Folder containing the randomly selected image for upload.
