@@ -16,6 +16,7 @@ An automated Instagram Bot using selenium framework on python3.
  * Randomly selects an Image from the Database.
  * Automatically uploads the selected image on Instagram.
  * The bot is automated to run periodically through Task Scheduler.
+ * Automatically resizes image to a square size for posting on Instagram. 
  
 
 
